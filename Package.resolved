@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser",
+      "state" : {
+        "revision" : "c8ed701b513cf5177118a175d85fbbbcd707ab41",
+        "version" : "1.3.0"
+      }
+    },
+    {
+      "identity" : "telegram-bot-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zmeyc/telegram-bot-swift.git",
+      "state" : {
+        "revision" : "c03186fdbde69be648be33c57793a2d83c5a8256",
+        "version" : "2.1.2"
+      }
+    }
+  ],
+  "version" : 2
+}
